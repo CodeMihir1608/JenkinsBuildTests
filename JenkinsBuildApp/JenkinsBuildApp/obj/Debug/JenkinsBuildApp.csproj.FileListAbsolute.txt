@@ -1,0 +1,7 @@
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\bin\Debug\JenkinsBuildApp.exe.config
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\bin\Debug\JenkinsBuildApp.exe
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\bin\Debug\JenkinsBuildApp.pdb
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\obj\Debug\JenkinsBuildApp.csprojAssemblyReference.cache
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\obj\Debug\JenkinsBuildApp.csproj.CoreCompileInputs.cache
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\obj\Debug\JenkinsBuildApp.exe
+C:\Jenkins\JenkinsBuildApp\JenkinsBuildApp\obj\Debug\JenkinsBuildApp.pdb

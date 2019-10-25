@@ -1,0 +1,17 @@
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\JenkinsBuildApp.exe
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\JenkinsBuildApp.pdb
+C:\Jenkins\JenkinsBuildApp\UnitTestProject\bin\Debug\JenkinsBuildApp.exe.config
